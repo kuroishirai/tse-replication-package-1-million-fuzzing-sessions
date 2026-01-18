@@ -1,0 +1,2 @@
+project,timecreated_i,modules_i,revisions_i,timecreated_i+1,modules_i+1,revisions_i+1,covered_line_i,total_line_i,covered_line_i+1,total_line_i+1,diff_total_line,diff_coverage
+isodate,2024-10-04 06:04:04.197000,{isodate},{8856fdf0e46c7bca00229faa1aae6b7e8ad6e76c},2024-10-08 13:49:22.311000,{isodate},{9443e63119579217699dce88b86753a81a9bec52},211.0,520.0,206.0,516.0,-4.0,-0.6544424567680451

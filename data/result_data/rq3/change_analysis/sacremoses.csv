@@ -1,0 +1,2 @@
+project,timecreated_i,modules_i,revisions_i,timecreated_i+1,modules_i+1,revisions_i+1,covered_line_i,total_line_i,covered_line_i+1,total_line_i+1,diff_total_line,diff_coverage
+sacremoses,2023-04-27 06:32:43.539000,{sacremoses},{4b62bb8bd0c5d06b9df54894eb7f66b43d963dae},2023-04-28 06:46:06.054000,{sacremoses},{4203e7d5f12b03ba443a95154314e840d1bc135f},2892.0,10182.0,2892.0,10182.0,0.0,0.0

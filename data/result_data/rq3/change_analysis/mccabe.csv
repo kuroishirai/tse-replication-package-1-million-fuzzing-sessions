@@ -1,0 +1,3 @@
+project,timecreated_i,modules_i,revisions_i,timecreated_i+1,modules_i+1,revisions_i+1,covered_line_i,total_line_i,covered_line_i+1,total_line_i+1,diff_total_line,diff_coverage
+mccabe,2023-06-19 07:01:20.610000,{mccabe},{12a327be44b017b5208ef96e171f894e4d7e318c},2023-06-20 06:46:34.974000,{mccabe},{851852240f2fa4453c226ccc5ae88bc03b467388},112.0,266.0,112.0,266.0,0.0,0.0
+mccabe,2023-12-03 06:18:38.758000,{mccabe},{851852240f2fa4453c226ccc5ae88bc03b467388},2023-12-04 07:09:24.709000,{mccabe},{60cf21c21f8e5880f9907561c53732e80d1be400},112.0,266.0,112.0,266.0,0.0,0.0

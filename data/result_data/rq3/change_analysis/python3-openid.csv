@@ -1,0 +1,4 @@
+project,timecreated_i,modules_i,revisions_i,timecreated_i+1,modules_i+1,revisions_i+1,covered_line_i,total_line_i,covered_line_i+1,total_line_i+1,diff_total_line,diff_coverage
+python3-openid,2024-10-24 06:33:15.140000,{python3-openid},{92235252f0a18b702bc86f17c0c5f5a9d68967a7},2024-10-26 06:27:30.212000,{python3-openid},{19e9419a7c33db54af1e77d5067686264d2615d8},95.0,193.0,95.0,193.0,0.0,0.0
+python3-openid,2024-10-26 06:27:30.212000,{python3-openid},{19e9419a7c33db54af1e77d5067686264d2615d8},2024-10-27 06:36:14.737000,{python3-openid},{e142fb9ea786f67a06aed2a3d0256ad7ff848a29},95.0,193.0,95.0,193.0,0.0,0.0
+python3-openid,2024-11-05 06:16:33.855000,{python3-openid},{e142fb9ea786f67a06aed2a3d0256ad7ff848a29},2024-11-06 06:32:08.309000,{python3-openid},{fbc7f6a2dc5159b890119a044215a6aee4cefc8d},95.0,193.0,95.0,193.0,0.0,0.0

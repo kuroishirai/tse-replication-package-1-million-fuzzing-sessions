@@ -1,0 +1,4 @@
+project,timecreated_i,modules_i,revisions_i,timecreated_i+1,modules_i+1,revisions_i+1,covered_line_i,total_line_i,covered_line_i+1,total_line_i+1,diff_total_line,diff_coverage
+parsimonious,2023-04-27 06:21:21.060000,{parsimonious},{d5636a6ae4d7fe2ddb96f567e289ab3eeb454b49},2023-04-30 06:31:30.429000,{parsimonious},{39b3d71ee827ba6a19a7226fddfe6b6e51535794},2917.0,3583.0,2918.0,3586.0,3.0,-0.04022216206885787
+parsimonious,2023-11-01 06:51:41.500000,{parsimonious},{39b3d71ee827ba6a19a7226fddfe6b6e51535794},2023-11-02 06:27:48.684000,{parsimonious},{67dfaac5d66c9b57eb4f7d58d953d489944e14c8},1720.0,3588.0,1720.0,3588.0,0.0,0.0
+parsimonious,2024-08-02 06:29:46.322000,{parsimonious},{67dfaac5d66c9b57eb4f7d58d953d489944e14c8},2024-08-03 06:28:03.095000,{parsimonious},{0d3f5f93c98ae55707f0958366900275d1ce094f},1724.0,3583.0,1722.0,3583.0,0.0,-0.05581914596707094

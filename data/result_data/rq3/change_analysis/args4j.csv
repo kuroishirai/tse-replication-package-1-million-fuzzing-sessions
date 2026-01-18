@@ -1,0 +1,4 @@
+project,timecreated_i,modules_i,revisions_i,timecreated_i+1,modules_i+1,revisions_i+1,covered_line_i,total_line_i,covered_line_i+1,total_line_i+1,diff_total_line,diff_coverage
+args4j,2024-02-02 06:20:36.102000,{args4j},{b819bd367a70fe102f7a7cab628c2e9f080705fe},2024-02-03 06:42:49.149000,{args4j},{fc458a24d6bd08b58fdd0bd7e37acb08200eac59},147.0,1183.0,147.0,1183.0,0.0,0.0
+args4j,2024-02-21 06:28:31.591000,{args4j},{fc458a24d6bd08b58fdd0bd7e37acb08200eac59},2024-02-22 06:12:10.586000,{args4j},{6d743b4af1a5fd793628872e8861341a8a8b5d1a},147.0,1183.0,147.0,1183.0,0.0,0.0
+args4j,2024-03-06 06:30:46.588000,{args4j},{6d743b4af1a5fd793628872e8861341a8a8b5d1a},2024-03-07 06:13:06.741000,{args4j},{9ba90701a1a04cd5b4947600e77bd61ef3a97d16},147.0,1183.0,147.0,1183.0,0.0,0.0

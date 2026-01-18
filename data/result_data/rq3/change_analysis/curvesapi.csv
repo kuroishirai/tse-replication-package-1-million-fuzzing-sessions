@@ -1,0 +1,2 @@
+project,timecreated_i,modules_i,revisions_i,timecreated_i+1,modules_i+1,revisions_i+1,covered_line_i,total_line_i,covered_line_i+1,total_line_i+1,diff_total_line,diff_coverage
+curvesapi,2023-08-09 06:18:03.755000,{curvesapi},{91f82eee048bddb304ca622e4439049a205fcbba},2023-08-11 07:09:58.738000,{curvesapi},{a39c6d234bd1b70a324a8cf4f5a2b0e1f2780c7f},319.0,8293.0,322.0,8296.0,3.0,0.03477099169624154

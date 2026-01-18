@@ -71,7 +71,11 @@ docker compose exec -T db psql -U replication_user -d replication_db < data/data
 ## ✅ Run Analysis Programs
 
 ```bash
+docker compose run --rm research bash run_all_analysis.sh
+```
+
+or
+
+```bash
 docker compose run --rm research python program/research_questions/rq1_detection_rate.py
-docker compose run --rm research python program/research_questions/rq2_coverage_count.py
-docker compose run --rm research python program/research_questions/rq3_diff_coverage_at_detection.py
 ```

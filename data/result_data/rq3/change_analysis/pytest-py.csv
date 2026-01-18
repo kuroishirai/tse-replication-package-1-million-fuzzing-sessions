@@ -1,0 +1,2 @@
+project,timecreated_i,modules_i,revisions_i,timecreated_i+1,modules_i+1,revisions_i+1,covered_line_i,total_line_i,covered_line_i+1,total_line_i+1,diff_total_line,diff_coverage
+pytest-py,2023-06-19 06:59:42.992000,{py},{cb87a83960523a2367d0f19226a73aed4ce4291d},2023-06-20 06:38:07.968000,{py},{6b219734fcd8d2f6489c2f50585a435b34c029c2},293.0,1119.0,293.0,1119.0,0.0,0.0

@@ -1,0 +1,5 @@
+project,timecreated_i,modules_i,revisions_i,timecreated_i+1,modules_i+1,revisions_i+1,covered_line_i,total_line_i,covered_line_i+1,total_line_i+1,diff_total_line,diff_coverage
+defusedxml,2023-09-26 06:06:59.496000,{defusedxml},{dbb103829ff349bc50da2e943fedb48e014d29ce},2023-09-27 06:13:54.690000,{defusedxml},{8be621061cc8146ad3f5c0b4299bc5d472ac0349},202.0,357.0,202.0,357.0,0.0,0.0
+defusedxml,2023-09-28 06:11:10.946000,{defusedxml},{8be621061cc8146ad3f5c0b4299bc5d472ac0349},2023-09-29 06:27:11.141000,{defusedxml},{fa6f5a51ee93e4c35e58ca7b5b2a88a6ccba3e03},202.0,357.0,202.0,357.0,0.0,0.0
+defusedxml,2023-09-29 06:27:11.141000,{defusedxml},{fa6f5a51ee93e4c35e58ca7b5b2a88a6ccba3e03},2023-09-30 07:16:48.547000,{defusedxml},{55dbde29c06834bf2015db88310aaa05f3b7c8c7},202.0,357.0,202.0,358.0,1.0,-0.1580520476346905
+defusedxml,2023-10-24 06:09:50.102000,{defusedxml},{55dbde29c06834bf2015db88310aaa05f3b7c8c7},2023-10-25 06:07:12.123000,{defusedxml},{c7445887f5e1bcea470a16f61369d29870cfcfe1},202.0,358.0,202.0,358.0,0.0,0.0
