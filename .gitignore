@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+*.pyc
+__pycache__/
+
+# Large Data files
+data/database/
+data/processed_data/
+
+# Environment/Secrets (Optimistic exclusion, though user allowed envFile.ini, it's good practice to verify if we want to ignore others)
+# program/envFile.ini # User said this is fine
